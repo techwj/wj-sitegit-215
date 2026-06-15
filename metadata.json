@@ -1,0 +1,72 @@
+{
+  "siteId": "video-interview-platform-reviews",
+  "generatedAt": "2026-06-12T16:24:00.756883",
+  "categories": [
+    "beginner-video-interview-platform-reviews",
+    "advanced-video-interview-platform-reviews",
+    "tips-video-interview-platform-reviews",
+    "history-video-interview-platform-reviews",
+    "trending-video-interview-platform-reviews",
+    "tutorials-video-interview-platform-reviews"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-video-interview-platform-reviews",
+      "category_name": "Beginner Video Interview Platform Reviews"
+    },
+    {
+      "category_slug": "advanced-video-interview-platform-reviews",
+      "category_name": "Advanced Video Interview Platform Reviews"
+    },
+    {
+      "category_slug": "tips-video-interview-platform-reviews",
+      "category_name": "Video Interview Platform Reviews Tips"
+    },
+    {
+      "category_slug": "history-video-interview-platform-reviews",
+      "category_name": "Video Interview Platform Reviews History"
+    },
+    {
+      "category_slug": "trending-video-interview-platform-reviews",
+      "category_name": "Trending Video Interview Platform Reviews"
+    },
+    {
+      "category_slug": "tutorials-video-interview-platform-reviews",
+      "category_name": "Video Interview Platform Reviews Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "video-interview-platform-reviews",
+    "color_scheme": {
+      "name": "Midnight Teal",
+      "primary": "#0d9488",
+      "secondary": "#14b8a6",
+      "accent": "#5eead4",
+      "background": "#f0fdfa",
+      "text": "#134e4a",
+      "light": "#ccfbf1"
+    },
+    "font": {
+      "name": "Inter",
+      "family": "'Inter', system-ui, sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');"
+    },
+    "layout": "sidebar-right",
+    "border_radius": "0px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "list",
+    "header_style": "minimal",
+    "footer_style": "simple",
+    "modules": [
+      "trending-articles",
+      "featured-section",
+      "popular-tags",
+      "category-highlights",
+      "newsletter-signup",
+      "stats-widget"
+    ],
+    "site_title": "Video Interview Platform Reviews Central",
+    "articles_per_row": 1
+  }
+}
